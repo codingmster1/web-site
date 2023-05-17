@@ -77,12 +77,24 @@ li
     justify-content: center;
 }
 
+#about,
+#discord,
+#contact
+ {
+    padding: 48px 0;
+    
+} 
+
+
 /* about section */
 
-#about {
-    padding: 48px 0;
+
+
+#about
+{
+
     background-color: #f8ffdc;
-} 
+}
 
 h2 {
     font-size: 60px;
@@ -116,4 +128,10 @@ img{
     font-size: 20px;
     line-height: 1.5;
     margin-bottom: 24px;
+}
+
+/* Discord Section */
+
+#discord{
+    background-color: #cefeff;
 }
