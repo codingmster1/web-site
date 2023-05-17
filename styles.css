@@ -79,8 +79,9 @@ li
 
 /* about section */
 
-.about {
+#about {
     padding: 48px 0;
+    background-color: #f8ffdc;
 } 
 
 h2 {
