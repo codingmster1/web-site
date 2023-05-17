@@ -97,6 +97,7 @@ h2 {
 
 .about_image_wrapper{
     width: 40%;
+    padding: 0 24px;
 }
 
 img{
@@ -104,10 +105,14 @@ img{
 }
 
 .section_description_wrapper{
-width: 60%;
+
+    width: 60%;
+    padding: 0 24px;
 }
 
 .section_description_para
 {
-    
+    font-size: 20px;
+    line-height: 1.5;
+    margin-bottom: 24px;
 }
